@@ -8,6 +8,9 @@
       "target": "ES6",
       "module": "es6"
     },
+    "files": [
+      "node_modules/gsap/types/index.d.ts"
+    ],
     "exclude": [
       "assets/js/build",
       "assets/js/build-min",
